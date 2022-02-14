@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Guild of Magic\RevitAPITraining\RoomNumberingPlugin.dll</Assembly>
+		<AddInId>59A52498-A567-4107-BD8B-169B3D2C6D7A</AddInId>
+		<FullClassName>RoomNumberingPlugin.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Приложение для Revit</Text>
+	</AddIn>
+</RevitAddIns>
